@@ -1,0 +1,12 @@
+PyMySQL
+DBUtils
+psutil
+celery==4.1.0
+kombu==4.1.0
+flower
+msgpack-python
+redis==2.10.6
+#s3utils
+boto3
+#fsmon
+pyinotify
